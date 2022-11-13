@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Talk My</string>
+    <string name="search">Search</string>
+    <string name="nome">Nome</string>
+    <string name="e_mail">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="todo">TODO</string>
+    <string name="txt_ir_para_cadastro"><font color="#95FFFFFF">Não tem uma conta?</font><b> Clique aqui!</b></string>
+    <string name="entrar">Entrar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sair">Sair</string>
+    <string name="editar_perfil">Editar Perfil</string>
+    <string name="frase_da_bio">Frase da bio</string>
+    <string name="almir_ramos">Almir Ramos</string>
+    <string name="_0">0</string>
+    <string name="seguindo">Seguindo</string>
+    <string name="seguidores">Seguidores</string>
+    <string name="publica_es">Publicações</string>
+    <string name="emaildousuario_gmail_com">emaildousuario@gmail.com</string>
+    <string name="atualizar">Atualizar</string>
+    <string name="bio_do_usuario">Estou no Talk My, que Orgulho!</string>
+    <string name="atualizar_perfil">Atualizar Perfil</string>
+    <string name="foto">Atualizar foto</string>
+    <string name="adicione_uma_biografia">Adicione uma biografia!</string>
+    <string name="descri_o">Descrição</string>
+    <string name="_0_curtidas">0 curtidas</string>
+    <string name="descricao">Descricao</string>
+</resources>

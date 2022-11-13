@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "767513331666",
+    "project_id": "rede-sociais-22d8f",
+    "storage_bucket": "rede-sociais-22d8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767513331666:android:daa8ea4105fde777ea2a0b",
+        "android_client_info": {
+          "package_name": "com.baggold.net.talkmy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767513331666-o42q9gbpna0rb0tsh6lnkj2jsjp8b0go.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.baggold.net.talkmy",
+            "certificate_hash": "e453bc45cc10f45fc0efb5686685fb8d97511f43"
+          }
+        },
+        {
+          "client_id": "767513331666-599shith2pdvf9c7huesafjgb6s82sal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiP6xtCEVAjav-d2NLAfc3OEqIwUYWgg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767513331666-599shith2pdvf9c7huesafjgb6s82sal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

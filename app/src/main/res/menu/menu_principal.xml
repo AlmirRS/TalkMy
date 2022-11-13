@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Home"
+        android:id="@+id/ic_home"
+        android:icon="@drawable/ic_home"
+        android:iconTint="@color/black"
+        app:showAsAction="never"/>
+    <item
+        android:title="Pesquisar"
+        android:id="@+id/ic_pesquisa"
+        android:icon="@drawable/ic_search"
+        android:iconTint="@color/black"
+        app:showAsAction="never"/>
+    <item
+        android:title="Postagem"
+        android:id="@+id/ic_postagem"
+        android:icon="@drawable/ic_add_box"
+        android:iconTint="@color/black"
+        app:showAsAction="never"/>
+    <item
+        android:title="Perfil"
+        android:id="@+id/ic_perfil"
+        android:icon="@drawable/ic_person"
+        android:iconTint="@color/black"
+        app:showAsAction="never"/>
+
+</menu>

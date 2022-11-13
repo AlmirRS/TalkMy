@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/ic_home">
+
+    <fragment
+        android:id="@+id/ic_home"
+        android:name="com.baggold.net.talkmy.fragments.FeedFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_feed" />
+    <fragment
+        android:id="@+id/ic_search"
+        android:name="com.baggold.net.talkmy.fragments.PesquisarFragment"
+        android:label="fragment_pesquisar"
+        tools:layout="@layout/fragment_pesquisar" />
+    <fragment
+        android:id="@+id/ic_person"
+        android:name="com.baggold.net.talkmy.fragments.PerfilFragment"
+        android:label="fragment_perfil"
+        tools:layout="@layout/fragment_perfil" />
+    <fragment
+        android:id="@+id/ic_add_box"
+        android:name="com.baggold.net.talkmy.fragments.PostagensFragment"
+        android:label="fragment_postagens"
+        tools:layout="@layout/fragment_postagens" />
+</navigation>
