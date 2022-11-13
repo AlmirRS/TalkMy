@@ -8,6 +8,13 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
+    <color name="colorPrimary">@android:color/white</color>
+    <color name="colorPrimaryDark">#462759</color>
+    <color name="colorAccent">#a03d89</color>
+    <color name="cinza_medio">#ebebeb</color>
+    <color name="roxo">#462759</color>
+    <color name="azulEscuro">#3f51b5</color>
+
 
     <color name="onPrimary">#c2185b</color>
     <color name="onPrimaryDark">#8c0032</color>
